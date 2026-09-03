@@ -1,1 +1,1 @@
-# prediction-football
+# prediction-football-ai
